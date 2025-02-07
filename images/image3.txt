@@ -1,0 +1,5 @@
+Temporary placeholder content for image3.txt
+This file now has multiple lines.
+Line 1: This is a placeholder for content.
+Line 2: More temporary content is here.
+End of temporary content.
